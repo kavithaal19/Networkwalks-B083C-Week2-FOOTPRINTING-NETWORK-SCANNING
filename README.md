@@ -156,6 +156,9 @@ Key records:
 - **wafw00f**
 - **dnsrecon**
 
+  ## Reference**
+  Please refer attached project report in pdf format for detailed information about Tools used and risks identified and for detailed analysis.
+
 ---
 
 ## 👤 Author
