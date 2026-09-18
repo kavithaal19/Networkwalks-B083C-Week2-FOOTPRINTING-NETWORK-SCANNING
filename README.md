@@ -1,4 +1,3 @@
-<div align="center">
 #**FOOTPRINTING & NETWORL SCANNING**
 
 **Passive info gathering on networkwalks.com, run from the Kali lab I built in Week 1.**
@@ -8,7 +7,7 @@
 ## Overview
 
 This covers footprinting the networkwalks.com domain using multiple Kali Linux tools  and scanning my own local network with Zenmap . One module covers the footprinting phase and the other covers the scanning phase, so together they show how an attacker moves from gathering public information to mapping live hosts on a network. 
-All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenmap installed (scanning). Every step below includes the exact command used, the result I observed, a screenshot as evidence, and a short note on why the finding matters from an attacker's point of view.
+All commands were run in Kali Linux (footprinting) and on a Windows PC with Zenmap installed (scanning). Every step below includes the exact command used, the result I observed, and a short note on why the finding matters from an attacker's point of view.
 
 
 
