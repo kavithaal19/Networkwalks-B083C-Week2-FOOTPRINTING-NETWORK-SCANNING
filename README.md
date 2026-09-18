@@ -39,9 +39,6 @@ Registrant info: privacy-protected via Domains By Proxy, LLC (Tempe, AZ) — no 
 
 **What this tells me:** the domain uses WHOIS privacy protection, so ownership details aren't directly exposed — pretty standard and sensible setup.
 
-Output saved to `whois.txt`.
-
-
 
 ### 2. WhatWeb Fingerprinting
 
