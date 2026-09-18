@@ -1,4 +1,4 @@
-# NetworkWalks — Week 2: Passive Reconnaissance & OSINT
+#FOOTPRINTING & NETWORL SCANNING
 
 **Passive info gathering on networkwalks.com, run from the Kali lab I built in Week 1.**
 
